@@ -1,0 +1,4 @@
+[console_scripts]
+hti=html2image:main
+html2image=html2image:main
+
